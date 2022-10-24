@@ -8,10 +8,10 @@
 
 * HTML
 * CSS 
-
+* Git
 ## GitHub pages
 
-(https://github.com/Austonmoos/portfolio)
+https://austonmoos.github.io/portfolio/
 
 ## Description
 
@@ -19,11 +19,16 @@ This webpage contains information about myself (Auston Moos), Projects I've work
 
 ## Setup/Installation Requirements
 
-* click on link at the top of the README.md 
+* Setup/Installation Requirements
+* Clone this repository on your desktop
+* Navigate to the top level of the directory
+* Look for index.html and open it in your web browser
+
 
 ## Known Bugs
 
-* No discovered Bugs as of yet.
+* Picture sometimes will not load
+* slow load time
 
 ## License
 
@@ -50,5 +55,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-
