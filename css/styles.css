@@ -28,3 +28,29 @@ a {
   margin: 3px;
 }
 
+ .image-container img {
+  float:right; 
+  height: auto;
+  width: 300px;
+  border-radius: 80%;
+  text-align: center;
+}
+
+img {
+  display: block;
+  position: relative;
+  top: 90%;
+  right: 0%;
+  transform: translate(-0%, -90%);
+}
+
+.helper {
+  display: inline-block;
+  vertical-align: middle;
+  height: 100%;
+}
+
+
+
+
+
